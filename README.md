@@ -2,7 +2,7 @@
 
 The community playbook is designed to support community organsing within the UK Public Sector Data Science Community.
 
-* List of Data Science Communities in the UK. Public Sector 
+* [List of Data Science Communities in the UK. Public Sector](https://github.com/ukgovdatascience/community-playbook/blob/54234de28737cbc8176f61edb4675236e896e3cd/Data%20Science%20Community.pdf) 
 
 ## Community Charter 
 
