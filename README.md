@@ -6,17 +6,17 @@ The community playbook is designed to support community organsing within the UK 
 
 ## Community Charter 
 
-* Community Purpose and Values
-* Decision making process 
+* [Community Purpose and Values](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/charter/Purpose-values)
+* [Decision making process](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/charter/governance) 
 * Community Wishlist 
 
-## Community Mobalisations 
+## Community Mobilisation
 
-* Community Volunteering Group 
-* Data Science Community of Interest 
-* Community Operations Kanban (sample)
-* Creating new special interest group 
-* Conference Handbook
+* [Community Volunteering Group](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/mobilisation/volunteer) 
+* [Data Science Community of Interest](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/mobilisation/DS_COI)
+* [Community Operations Kanban (sample)](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/mobilisation/kanban)
+* [Creating new special interest group](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/mobilisation/new_group) 
+* [Conference Handbook](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/mobilisation/conference)
 
 ## How to contribute 
 
@@ -24,7 +24,5 @@ This document is owned by the community and managed by the community manager. If
 If you are new to github, check out this amazing guide .
 
 ## Contributors 
-
-
 
 
