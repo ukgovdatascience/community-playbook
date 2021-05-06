@@ -6,7 +6,7 @@ The community playbook is designed to support community organsing within the UK 
 
 ## Community Charter 
 
-* [Community Purpose and Values](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/charter/Purpose-values)
+* [Community Purpose and Values](https://github.com/ukgovdatascience/community-playbook/blob/main/charter/Purpose-values)
 * [Decision making process](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/charter/governance) 
 * [Community Wishlist]() 
 
@@ -14,8 +14,8 @@ The community playbook is designed to support community organsing within the UK 
 
 ### Activities 
 
-* [Data Science Community of Interest](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/mobilisation/DS_COI) is a meet up for public sector colleagues to share and discuss the application of data science. This page outlines; membership needs, previous themes and organising a meet up.
-* [Conference Handbook](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/mobilisation/conference) provides guidance and examples for organising the annual Government Data Science Conference.  
+* [Data Science Community of Interest](https://github.com/ukgovdatascience/community-playbook/blob/main/mobilisation/DS_COI.md) is a meet up for public sector colleagues to share and discuss the application of data science. This page outlines; membership needs, previous themes and organising a meet up.
+* [Conference Handbook](https://github.com/ukgovdatascience/community-playbook/blob/main/mobilisation/conference) provides guidance and examples for organising the annual Government Data Science Conference.  
 
 ### Organsing 
 
