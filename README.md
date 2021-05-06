@@ -15,7 +15,7 @@ The community playbook is designed to support community organsing within the UK 
 ### Activities 
 
 * [Data Science Community of Interest](https://github.com/ukgovdatascience/community-playbook/blob/main/mobilisation/DS_COI.md) is a meet up for public sector colleagues to share and discuss the application of data science. This page outlines; membership needs, previous themes and organising a meet up.
-* [Conference Handbook](https://github.com/ukgovdatascience/community-playbook/blob/main/mobilisation/conference) provides guidance and examples for organising the annual Government Data Science Conference.  
+* [Conference Handbook](https://github.com/ukgovdatascience/community-playbook/blob/main/mobilisation/conference.md) provides guidance and examples for organising the annual Government Data Science Conference.  
 
 ### Organsing 
 
