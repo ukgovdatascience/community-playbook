@@ -26,7 +26,7 @@ The community playbook is designed to support community organsing within the UK 
 * [Measuring Impact]()
 
 ## Community Platforms 
-* [Onboarding and Offboarding](https://github.com/ukgovdatascience/community-playbook/blob/main/mobilisation/membership.md) 
+* [Onboarding and Offboarding](https://github.com/ukgovdatascience/community-playbook/blob/main/mobilisation/membership.md) covers how to join and leave our community platforms.
 * [Government Data Science Slack](https://govdatascience.slack.com/) is an online forum with channels areas covering machine learning, R, Python - to join you will need to have a public sector email address such as gov.uk or nhs.net. 
 * [Government Data Science Festival Knowledge Hub](https://khub.net/group/government-data-science-festival/group-library) includes presentations from previous meetups and our annual conference. To join you will need to sign up at a knowledge hub with a public sector email address. 
 * [The UK Government Data Science GitHub](https://github.com/ukgovdatascience) -Here you can find repositories for code related to data science in UK public sector and government
