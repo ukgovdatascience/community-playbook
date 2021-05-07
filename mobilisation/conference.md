@@ -91,6 +91,10 @@ In the event you are not happy with the venue search Calder’s, please refer to
 
 Once you know the venue you want please include it in the Profession Quality Assurance form and submit this to the sponsors organisation comms. Keep track of the approval and you will receive a code from Comms which will be passed onto to Calder’s. Also ask for Business delivery to provide the codes for confirming the venue. 
 
+## Virtual Conferencing 
+[Department Events](https://department.events/pricing)  is a platform provider for civil service events e.g civil service live. They have a free and paid for service (please enquire about prices) with a variety of features. 
+
+An alternative route you can use is using your departments virtual conferencing solution. But ensure cross check this with the [platforms available in the public sector](https://www.instituteforgovernment.org.uk/sites/default/files/Fig%204.4%20-%20Accessibility%20of%20different%20digital%20platforms.png) 
 
 ## Sifting content
 
@@ -109,3 +113,26 @@ Developing an agenda
 * Leave at least 10 minutes for attendees to onboard to the platform 
 * Create a contingency time for speakers or technology glips 
 * Always schedule a housekeeping section at the beginning and end of a section. Include: Telling the audience about the slido, internal departments security policy (e.g code of conduct)
+
+
+### Registration 
+
+If you choose not use department events you can use Eventbrite. Regardless of the platform you choose make sure it has a privacy policy regarding how you use attendee’s data.
+ 
+## During-Conference 
+
+* Crib-sheet
+
+* Unexpected circumstances 
+
+* FAQ
+
+* Checklist + Resources
+
+## Post-Conference 
+* Retrospective 
+
+* Knowledge keeping 
+
+* Checklist + Resources
+
