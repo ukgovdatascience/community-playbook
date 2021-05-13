@@ -33,7 +33,7 @@ The community playbook is designed to support community organsing within the UK 
 
 ## How to contribute 
 
-This document is owned by the community and managed by the community manager. If you would like us to include or make a suggestion please raise an issue.
+This document is owned by the community and managed by the community manager. If you would like us to include or make a suggestion please [raise an issue](https://github.com/ukgovdatascience/community-playbook/issues).
 If you are new to github, check out these [amazing guides](https://guides.github.com/) .
 
 ## Contributors 
