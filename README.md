@@ -21,8 +21,8 @@ The community playbook is designed to support community organsing within the UK 
 
 * [Community Volunteering Group](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/mobilisation/volunteer) helps to deliver community actions and mobilisations with the community manager. This page outlines; expectations, benefits and how you can contribute. 
 * [Community Operations Kanban (sample)](https://github.com/ukgovdatascience/community-playbook/blob/aded5bf6296a48874e8a1a268fc264aa1ccecf15/mobilisation/kanban) an organising template to help support community management and prioritisation. 
-* [Creating new special interest group](https://github.com/ukgovdatascience/community-playbook/blob/main/mobilisation/new_group.md) 
-* [Inspiration Box]( ) provides examples of ways to bring the community together from hackathons, action learning sets to automating aspects of organising. 
+* [Creating a new special interest group](https://github.com/ukgovdatascience/community-playbook/blob/main/mobilisation/new_group.md) 
+* [Inspiration Box](https://github.com/ukgovdatascience/community-playbook/blob/main/mobilisation/inspiration.md) provides examples of ways to bring the community together from hackathons, action learning sets to automating aspects of organising. 
 * [Measuring Impact]()
 
 ## Community Platforms 
