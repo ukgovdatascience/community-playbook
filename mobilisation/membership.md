@@ -11,7 +11,7 @@ To join the [Government Data Science Slack](https://govdatascience.slack.com/) o
 For both platforms there are pre-approved list of email domains. 
 
 ### Government Data Science Slack 
-As there are limited number of pre-approved emails either an admin or an existing member can invite you with your public sector email address.
+As there are limited number of pre-approved emails either a admin or an existing member can invite you with your public sector email address.
 
 You can do invite people through the following steps listed on the [slack help center](https://slack.com/intl/en-gb/help/articles/201330256-Invite-new-members-to-your-workspace#send-an-invitation).  
 
