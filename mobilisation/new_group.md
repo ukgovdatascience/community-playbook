@@ -61,7 +61,7 @@ It's important to note that this is not "bible", that its fluid and should allow
     - Slackbots (Donut)
 - Pacing
     - What is the rhythm of your community ?
-    - How offten do you meet etc.
+    - How often do you meet etc.
 - Cross Community relations
     - It's good to have relationships with community lead, e.g. communities of communities
     - Negotiating boundaries, where does my community start and where does their end ?
