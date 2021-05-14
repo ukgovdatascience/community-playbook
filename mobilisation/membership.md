@@ -6,7 +6,7 @@ The community is primarily for data science practitioners and enablers. We welco
 
 ## Onboarding 
 
-To join the Government Data Science Slack or Knowledge Hub, you will need to sign up with a U.K public sector email address. 
+To join the [Government Data Science Slack](https://govdatascience.slack.com/) or [Knowledge Hub](https://khub.net/group/government-data-science-festival/group-library), you will need to sign up with a U.K public sector email address. 
 
 For both platforms there are pre-approved list of email domains. 
 
@@ -20,6 +20,12 @@ Once an invitation is sent, the admins will manually approve your email address.
 As you register please suffix your username with your department (e.g. username_dft). 
 
 Do not use slack to share data that might be considered 'OFFICIAL' or higher. Please abide by [Social Media guidance fo civil servants](https://www.gov.uk/government/publications/social-media-guidance-for-civil-servants/social-media-guidance-for-civil-servants) when using slack.
+
+### Knowledge hub net 
+
+The Government Data Science Festival Knowledge Hub includes presentations from meetups and the annual conference. You’ll need a public sector email address to join.
+
+Features include a library, wiki and events page. 
 
 #### How to use slack 
 
