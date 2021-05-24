@@ -26,7 +26,8 @@ Community Roadmap, should cover all of the dates for meet ups in a year. This pr
 Ask the community and consult the community chater on what topic(s) should be focused on. Develop a brief, this should include community needs, objectives, communications plan and current data science projects in the community. This should inform the core time blocks of the meet up.
 
 Each time block should ideally last within a 45 minute block, followed by a 5 minute break.
-Time blocks could feature 
+
+Time blocks could feature: 
 * lightening talks
 * code demonstration
 * ask me any thing 
