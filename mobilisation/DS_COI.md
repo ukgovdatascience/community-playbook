@@ -47,7 +47,7 @@ Develop a contigency plan if colleaguges can't present e.g pre-recording or a re
 
 ## Sprint 4: Sign Up and delivery
 
-Create an eventbrite page, that informs attendees what to expect. Ensure you have a data privacy policy and you have asked attendees if they have any accesibility issues. 
+Create an eventbrite page, that informs attendees what to expect. Ensure you have a data privacy policy and you have asked attendees if they have any accesibility needs. 
 Have a session production sheet so team members know what to do. 
 
 ## Sprint 5: Reflection and benefits realisation 
@@ -61,3 +61,4 @@ At the end of the meet up, ensure you have shared with members a feedback form. 
 * Survey Template 
 * [Facilitation Guide and tools](https://github.com/ukgovdatascience/community-playbook/blob/main/templates/facilitation.md)
 * [Team Brief](https://github.com/ukgovdatascience/community-playbook/blob/main/templates/teambrief.md) 
+* Accessiblity tips 
