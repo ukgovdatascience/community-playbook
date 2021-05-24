@@ -48,5 +48,5 @@ At the end of the meet up, ensure you have shared with members a feedback form. 
 * Speakers Brief 
 * Eventbrite Copy 
 * Survey Template 
-* Facilitation Guide and tools
-* Team Brief 
+* [Facilitation Guide and tools](https://github.com/ukgovdatascience/community-playbook/blob/main/templates/facilitation.md)
+* [Team Brief](https://github.com/ukgovdatascience/community-playbook/blob/main/templates/teambrief.md) 
