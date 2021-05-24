@@ -23,11 +23,21 @@ Community Roadmap, should cover all of the dates for meet ups in a year. This pr
 
 ## Sprint 1: Ideation 
 
-Ask the community and consult the community chater on what topic(s) should be focused on. Develop a brief, this should include community needs, objectives, communications plan and current data science projects in the community. This should inform the core blocks of the meet up.
+Ask the community and consult the community chater on what topic(s) should be focused on. Develop a brief, this should include community needs, objectives, communications plan and current data science projects in the community. This should inform the core time blocks of the meet up.
+
+Each time block should ideally last within a 45 minute block, followed by a 5 minute break.
+Time blocks could feature 
+* lightening talks
+* code demonstration
+* ask me any thing 
+
+Time blocking will inform how much space you can enable for collabration. 
 
 ## Sprint 2: Collabration 
 
-Once you have developed the brief ask for contributors from the community. Provide a speakers and team brief for the session.
+Once you have developed the brief ask for contributors from the community. Provide a speakers and team brief for the session (see useful materials for copy). 
+
+Consider also pre-recording session if members can't attend in person. 
 
 ## Sprint 3: Test 
 
