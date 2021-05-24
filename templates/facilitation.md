@@ -29,3 +29,11 @@ To support colleagues with accessibility needs, consider:
 * If you are facilitating in a small reading group or breakout rooms check out DataKind UK’s [Sample facilitation guide](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box/blob/master/Processes/Sample-Facilitator-Guide.md)
 * If you want to centre relationality and trust check out [Liberating structures](https://www.liberatingstructures.com/) 
 * If you enjoy design thinking, you could use aspects of [Google Design Sprints](https://designsprintkit.withgoogle.com/methodology/phase4-decide/dot-vote)
+
+## Tools
+
+Eventrbite 
+
+Sli.do 
+
+Breakout Rooms 
