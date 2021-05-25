@@ -16,9 +16,7 @@ For both platforms there are pre-approved list of email domains.
 
 As there are limited number of pre-approved emails either a admin or an existing member can invite you with your public sector email address.
 
-You can do invite people through the following steps listed on the [slack help center](https://slack.com/intl/en-gb/help/articles/201330256-Invite-new-members-to-your-workspace#send-an-invitation).  
-
-Once an invitation is sent, the admins will manually approve your email address. 
+You can invite colleagues by following the steps listed on the [slack help center](https://slack.com/intl/en-gb/help/articles/201330256-Invite-new-members-to-your-workspace#send-an-invitation).  Once an invitation is sent, the admins will manually approve your email address. 
 
 As you register please suffix your username with your department (e.g. username_dft). You can also add your pronouns by following this [guide](https://slack.com/help/articles/1500011115781-Manage-pronoun-display-for-member-profiles?locale=en-US) 
 
