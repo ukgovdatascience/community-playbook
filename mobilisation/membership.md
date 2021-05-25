@@ -20,7 +20,7 @@ You can do invite people through the following steps listed on the [slack help c
 
 Once an invitation is sent, the admins will manually approve your email address. 
 
-As you register please suffix your username with your department (e.g. username_dft). 
+As you register please suffix your username with your department (e.g. username_dft). You can also add your pronouns by following this [guide](https://slack.com/help/articles/1500011115781-Manage-pronoun-display-for-member-profiles?locale=en-US) 
 
 Do not use slack to share data that might be considered 'OFFICIAL' or higher. Please abide by [Social Media guidance fo civil servants](https://www.gov.uk/government/publications/social-media-guidance-for-civil-servants/social-media-guidance-for-civil-servants) when using slack.
 
@@ -28,11 +28,11 @@ Do not use slack to share data that might be considered 'OFFICIAL' or higher. Pl
 
 When you join slack you will be automatically added to the following channels #general, #random #intros. Use the search tools to follow channels you prefer e.g #r #python #geospatial. Also check out the description on the slack channels to help guide you.
 
-How to use slack with a [screen reader](https://slack.com/intl/en-gb/help/articles/360000411963-Use-Slack-with-a-screen-reader)
-
-If you are new to slack, check out this [start guide](https://slack.com/intl/en-gb/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide). 
-
 Want to meet people ? Join the #social and #connect channel is an app run channel. Every 4 weeks on a Friday, colleagues will be randomly paired to have catchups.
+
+If you are new to using slack, check out this [start guide](https://slack.com/intl/en-gb/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide). 
+
+How to use slack with a [screen reader](https://slack.com/intl/en-gb/help/articles/360000411963-Use-Slack-with-a-screen-reader)
 
 #### Offboarding 
 
